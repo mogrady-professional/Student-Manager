@@ -62,13 +62,21 @@ C:\Users\Michael\Desktop\db\100000-students.db
 
 If you prefer to compile the source code yourself this section is for you.
 
+### Compile Source Code
+
+Run the following command inside the src folder to compile into `.class` files.
+
+```
+javac ie/gmit/dip/*.java
+```
+
 ### Build
 
 #### System Requirements
 
 - JavaSE-1.8 or higher.
 
-Download the project and run the following command from inside the `bin` directory to create a JAR file.
+Download the project and run the following command from inside the `bin` directory (or the folder with the `.class`) files to create a JAR file.
 
 ```
 jar -cf Student-Manager.jar ie/gmit/dip/*.class
