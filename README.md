@@ -1,4 +1,8 @@
-<h1> Student Manager Java Application <img src="images/Student-Manager.png" width="125" align="right" alt="Student Manager Application"></h1>
+<h1> Student Manager Java Application <img src="images/Student-Manager.png" width="125" align="right" alt="Student Manager Application" style="margin-bottom:10px"></h1>
+
+<p align="center" >
+ <img src="images/student-manager_psd.png"  height="100%" width="auto">
+</p>
 
 ## Table of Contents
 
@@ -9,6 +13,7 @@
   - [Running the finished application as an executable](#running-the-finished-application-as-an-executable)
     - [Loading sample data](#loading-sample-data)
 - [Compile the application yourself](#compile-the-application-yourself)
+  - [Compile Source Code](#compile-source-code)
   - [Build](#build)
     - [System Requirements](#system-requirements-1)
   - [Run](#run)
