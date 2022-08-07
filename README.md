@@ -1,8 +1,8 @@
 <h1> Student Manager Java Application <img src="images/Student-Manager.png" width="125" align="right" alt="Student Manager Application" style="margin-bottom:10px"></h1>
 
-<p align="center" >
+<!-- <p align="center" >
  <img src="images/student-manager_psd.png"  height="100%" width="auto">
-</p>
+</p> -->
 
 ## Table of Contents
 
